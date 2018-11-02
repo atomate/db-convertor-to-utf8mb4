@@ -1,0 +1,1 @@
+# db-convertor-to-utf8mb4
