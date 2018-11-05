@@ -6,7 +6,7 @@ NC='\033[0m'
 
 printf "\n\n${GREEN}### Converting MySQL character set ###\n\n"
 
-printf "${NC}Enter the of the database: "
+printf "${NC}Enter the name of the database: "
 read -r DB
 
 # Get the MySQL username
